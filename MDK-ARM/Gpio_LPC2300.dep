@@ -1,0 +1,8 @@
+Dependencies for Project 'Gpio', Target 'LPC2300': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x5DBC639D)(--cpu ARM7TDMI -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "LPC2300.lst" --xref -o ".\Obj\LPC2300.o")
+F (..\User\main.c)(0x5DBC65F2)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o ".\Obj\main.o" --omf_browse ".\Obj\main.crf" --depend ".\Obj\main.d")
+I (C:\Keil\ARM\INC\Philips\lpc23xx.h)(0x4BB1D0D8)
+I (..\User\GPIO.h)(0x5DB87E71)
+F (..\User\GPIO.c)(0x5DB87EB7)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o ".\Obj\gpio.o" --omf_browse ".\Obj\gpio.crf" --depend ".\Obj\gpio.d")
+I (..\User\GPIO.h)(0x5DB87E71)
+I (C:\Keil\ARM\INC\Philips\lpc23xx.h)(0x4BB1D0D8)
